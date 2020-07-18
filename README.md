@@ -1,7 +1,7 @@
 # manim-projects
 This repository includes projects based on manim, the mathematical animation package created by Grant Sanderson of 3Blue1Brown. 
 
-*Before installing try [EulerTour](https://eulertour.com/)*
+*Before installing manim straightaway, try [EulerTour](https://eulertour.com/)*
 # References
 * https://github.com/3b1b/manim
 * https://eulertour.com/
